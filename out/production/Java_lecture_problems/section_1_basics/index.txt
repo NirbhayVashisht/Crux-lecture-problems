@@ -1,0 +1,2 @@
+ques_1:
+Find the sum of first n natural numbers
