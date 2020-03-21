@@ -7,3 +7,11 @@ ques_3: Fibonacci series
 ques_4: Given 2 numbers n1 and n2, find the HCF/GCD
 
 ques_5: Find the reverse of a number
+
+PATTERNS
+
+ques_6:
+***
+***
+***
+
