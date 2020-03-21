@@ -21,7 +21,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZNIWKkuBVYUijv4te3R1lFKf0E" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -35,7 +37,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.ques_3">
+  <component name="RunManager" selected="Application.ques_4">
     <configuration name="ques_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_1_basics.ques_1" />
       <module name="Java_lecture_problems" />
@@ -75,8 +77,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ques_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_1_basics.ques_4" />
+      <module name="Java_lecture_problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section_1_basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ques_4" />
         <item itemvalue="Application.ques_3" />
         <item itemvalue="Application.ques_2" />
         <item itemvalue="Application.ques_1" />
@@ -101,33 +117,33 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1584673235526" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1584679401037">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1584772111267">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584679401037" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1584679401037">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584772111267" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1584772111267">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584679401037" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1584679401037">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584772111267" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1584772111267">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584679401037" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1584679401037">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584772111267" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1584772111267">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584679401037" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584772111267" />
     <state x="277" y="55" key="SettingsEditor" timestamp="1584674723317">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584674723317" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1584678144227">
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1584769080256">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584678144227" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1584674678409">
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584769080256" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1584772010759">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1584674678409" />
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1584772010759" />
   </component>
 </project>

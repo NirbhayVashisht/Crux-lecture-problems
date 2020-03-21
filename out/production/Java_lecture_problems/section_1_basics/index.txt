@@ -3,3 +3,5 @@ ques_1: Find the sum of first n natural numbers
 ques_2: Find if input n is prime or not
 
 ques_3: Fibonacci series
+
+ques_4: Given 2 numbers n1 and n2, find the HCF/GCD
